@@ -1,16 +1,18 @@
-## Hi there 👋
+# Vinay Sati - Portfolio Website
 
-<!--
-**Prodpreneurvinay/Prodpreneurvinay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my personal portfolio website! This project showcases my skills, experience, and key projects as a Product Manager and Entrepreneur.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Features
+
+- **Modern and Responsive Design**: Optimized for all devices (desktop, tablet, mobile).
+- **Interactive Animations**: Hover effects on project images with smooth scaling animations.
+- **Projects Showcase**: Highlights major projects like SyncSpace and the Instagram Collaboration Feature.
+- **Resume Section**: Direct link to download/view my resume.
+- Open the index.html file in any browser to view the portfolio.
+👨‍💻 Author
+Vinay Sati
+LinkedIn
+GitHub
+Feel free to connect for feedback or collaboration!
